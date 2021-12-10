@@ -1,9 +1,4 @@
 # Clean-Energy-Tweets-Analysis
 ## Abstract
 
-###### Tweets structure includings their words choice, sentiments, counts of retweets and likes are a measure of public opinion about the tweets' topic. This research aims to extract the public opinion on the topic of clean energy between January 2018 to August 2021. Clean energy is classified to following forms:
-- biomass 
-- hydropower
-- solar 
-- wind 
-- geothermal
+###### Tweets' structure including word choice, sentiment score, retweets' counts, and number of likes are a measure of public opinion about the tweets' topic. This research aims to draw insight about public opinion on clean energy between January 2017 to August 2021. Clean energy is classified to following forms including biomass, hydropower, solar, wind, and geothermal. 
