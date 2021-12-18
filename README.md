@@ -5,3 +5,5 @@
 
 ## Results
 ###### A limit of 10,000 is put on the number of tweets extracted. Total number of words in tweets (known as vocabulary size) is 43579. Most common words excluding English stopwords are _biomass_, _carbon_, _renewable_, _wood_, _power_, _solar_, _trees_, _new_, _burning_, and _forest_. Wordcloud of all words in the tweets is depicted [here](https://github.com/Ladan-n/Clean-Energy-Tweets-Analysis/blob/main/all_words_cloud.png).
+
+###### [A graph](https://github.com/Ladan-n/Clean-Energy-Tweets-Analysis/blob/main/frequent_twitter_useres.png) is created on the ten twitter usernames having the most number of tweets.
