@@ -8,4 +8,4 @@
 
 ## Data Visulization
 ###### [A graph](https://github.com/Ladan-n/Clean-Energy-Tweets-Analysis/blob/main/frequent_twitter_useres.png) is created on the ten twitter usernames having the most number of tweets. A summarized analysis of the tweets is presented on this [Tableau Dashboard](https://public.tableau.com/app/profile/ladan.naimi/viz/TweetsAnalysisonwordsbiomassandenergy/Dashboard1?publish=yes).
-A Wordcloud of all words in the tweets is depicted [here](https://github.com/Ladan-n/Clean-Energy-Tweets-Analysis/blob/main/all_words_cloud.png).
+###### A Wordcloud of all words in the tweets is depicted [here](https://github.com/Ladan-n/Clean-Energy-Tweets-Analysis/blob/main/all_words_cloud.png).
